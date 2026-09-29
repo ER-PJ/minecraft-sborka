@@ -1,0 +1,139 @@
+[Damage]
+	#Mobs able to receive charge damage.
+	#
+	#Off = Monsters, On = All.
+	targetType = false
+	#Maximum damage dealt when charging.
+	#
+	#Ex. 20 damage = 10 hearts.
+	#
+	# Default: 20.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	maxDamage = 20.0
+	#Minimum damage dealt when charging.
+	#
+	#Cannot exceed maximum damage.
+	#
+	# Default: 0.5
+	# Range: 0.0 ~ 1.7976931348623157E308
+	minDamage = 0.5
+	#Base damage multiplier.
+	#
+	#Cannot exceed maximum damage.
+	#
+	# Default: 0.2
+	# Range: 0.0 ~ 1.7976931348623157E308
+	baseMult = 0.2
+	#Damage multiplier when falling on a mob.
+	#
+	#Cannot exceed maximum damage.
+	#
+	# Default: 1.3
+	# Range: 0.0 ~ 1.7976931348623157E308
+	fallMult = 1.3
+	#Percentage of mount max health added to damage.
+	#
+	#Ex. 20 health * 0.1 = 2 damage = 1 heart
+	#
+	#Cannot exceed maximum damage.
+	#
+	# Default: 0.1
+	# Range: 0.0 ~ 1.7976931348623157E308
+	hpBonus = 0.1
+	#Percentage of mount armor added to damage.
+	#
+	#Ex. 10 armor * 0.2 = 2 damage = 1 heart
+	#
+	#Cannot exceed maximum damage.
+	#
+	# Default: 0.2
+	# Range: 0.0 ~ 1.7976931348623157E308
+	armorBonus = 0.2
+
+[Threshold]
+	#Whether to send death messages caused by charge damage.
+	deathMessage = true
+	#Minimum speed (in blocks/sec) required to deal damage.
+	#
+	#Ex. 4.317 = unmounted walk speed.
+	#
+	# Default: 3.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	minSpeed = 3.0
+	#Minimum falling distance (in blocks) required to deal damage.
+	#
+	# Default: 1.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	minFallDist = 1.0
+	#Per mob internal cooldown (in ticks) to receive damage.
+	#
+	#Ex. 15 ticks = every 3/4 sec.
+	#
+	# Default: 15
+	# Range: > 0
+	mobDamageCD = 15
+	#How often (in ticks) to collision check.
+	#
+	#Ex. 5 ticks = every 1/4 sec.
+	#
+	# Default: 5
+	# Range: > 0
+	collisionCheckCD = 5
+
+[Registry]
+	#Mounts allowed to deal charge damage.
+	#
+	#Ex. 'minecraft:horse', 'custom:dragon'.
+	#
+	#Adding requires restart!
+	mountIDs = ["minecraft:horse", "minecraft:donkey", "minecraft:mule", "minecraft:camel", "minecraft:skeleton_horse", "minecraft:zombie_horse"]
+	#Base damage multiplier of each mount.
+	#
+	#Must match mount ID indices!
+	mountMults = [1.0, 0.5, 0.5, 1.0, 0.75, 0.75]
+	#List of mount armor IDs.
+	#
+	#Ex. 'minecraft:iron_horse_armor'
+	armorIDs = ["minecraft:leather_horse_armor", "minecraft:iron_horse_armor", "minecraft:golden_horse_armor", "minecraft:diamond_horse_armor"]
+
+[CollisionBox]
+	#When mount runs, how many blocks to enlarge collision box X-axis.
+	#
+	# Default: 0.2
+	# Range: 0.0 ~ 1.7976931348623157E308
+	boxX = 0.2
+	#When mount runs, how many blocks to enlarge collision box Y-axis.
+	#
+	# Default: 0.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	boxY = 0.0
+	#When mount runs, how many blocks to enlarge collision box Z-axis.
+	#
+	# Default: 0.2
+	# Range: 0.0 ~ 1.7976931348623157E308
+	boxZ = 0.2
+	#When mount falls, how many blocks to enlarge collision box X-axis.
+	#
+	# Default: 0.4
+	# Range: 0.0 ~ 1.7976931348623157E308
+	boxXFall = 0.4
+	#When mount falls, how many blocks to enlarge collision box Y-axis.
+	#
+	# Default: 0.4
+	# Range: 0.0 ~ 1.7976931348623157E308
+	boxYFall = 0.4
+	#When mount falls, how many blocks to enlarge collision box Z-axis.
+	#
+	# Default: 0.4
+	# Range: 0.0 ~ 1.7976931348623157E308
+	boxZFall = 0.4
+	#Horizontal push magnitude multiplier when colliding with mobs.
+	#
+	# Default: 1.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	pushMultXZ = 1.0
+	#Vertical push magnitude multiplier when colliding with mobs.
+	#
+	# Default: 1.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	pushMultY = 1.0

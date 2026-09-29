@@ -1,0 +1,16 @@
+{
+    "pack": {
+        "pack_format": 42,
+        "supported_formats": [1, 500],
+        "min_format": 1,
+        "max_format": 500,
+        "description": [
+            "Лол кек чебурек :)\n",
+            {
+                "translate": "3n5is35",
+                "fallback": "by C614",
+                "color": "blue"
+            }
+        ]
+    }
+}

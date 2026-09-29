@@ -1,0 +1,9 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"mob_inspector:mob_inspector"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:jungle_wood"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:birch_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:acacia_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:acacia_stairs"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"luminous_monsters:miner_zombie_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

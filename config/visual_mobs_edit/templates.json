@@ -1,0 +1,258 @@
+{
+  "minecraft:villager": {
+    "enabled": true,
+    "attributes": {
+      "minecraft:generic.armor": 100.0,
+      "minecraft:generic.follow_range": 48.0,
+      "minecraft:generic.armor_toughness": 0.0,
+      "minecraft:generic.movement_speed": 1.0,
+      "minecraft:generic.knockback_resistance": 0.0,
+      "minecraft:generic.max_health": 20.0
+    },
+    "aiToggles": {
+      "pickup_items": true,
+      "break_blocks": true,
+      "pushed_by_fluid": true,
+      "burn_in_sun": false
+    },
+    "resistances": {
+      "magic": false,
+      "explosion": false,
+      "fall": false,
+      "glowing": false,
+      "rideable": false,
+      "fire": false,
+      "projectile": false
+    },
+    "entityTypeTags": {},
+    "scale": 1.0,
+    "expertAttributes": {},
+    "filter": {
+      "enabled": false,
+      "tag": "vme_marked"
+    },
+    "spawnConditions": {
+      "enabled": false,
+      "weight": 100,
+      "minCount": 1,
+      "maxCount": 4,
+      "biomes": [],
+      "minLight": 0,
+      "maxLight": 15,
+      "minHeight": -64,
+      "maxHeight": 320,
+      "onSpawnNbt": ""
+    },
+    "jumpStrength": 0.7,
+    "randomAttributes": {},
+    "advancedSpawnRules": [],
+    "damageCapMode": "absolute",
+    "damageCapValue": 0.0
+  },
+  "minecraft:skeleton": {
+    "enabled": true,
+    "attributes": {
+      "minecraft:generic.attack_damage": 2.0,
+      "minecraft:generic.follow_range": 16.0,
+      "minecraft:generic.armor": 0.0,
+      "minecraft:generic.armor_toughness": 0.0,
+      "minecraft:generic.movement_speed": 1.0,
+      "minecraft:generic.knockback_resistance": 0.0,
+      "minecraft:generic.max_health": 20.0
+    },
+    "aiToggles": {
+      "pickup_items": true,
+      "break_blocks": true,
+      "pushed_by_fluid": true,
+      "burn_in_sun": true
+    },
+    "resistances": {
+      "magic": false,
+      "explosion": false,
+      "fall": false,
+      "glowing": false,
+      "rideable": false,
+      "fire": false,
+      "projectile": false
+    },
+    "entityTypeTags": {},
+    "scale": 1.0,
+    "expertAttributes": {},
+    "filter": {
+      "enabled": false,
+      "tag": "vme_marked"
+    },
+    "spawnConditions": {
+      "enabled": false,
+      "weight": 100,
+      "minCount": 1,
+      "maxCount": 4,
+      "biomes": [],
+      "minLight": 0,
+      "maxLight": 15,
+      "minHeight": -64,
+      "maxHeight": 320,
+      "onSpawnNbt": ""
+    },
+    "jumpStrength": 0.7,
+    "randomAttributes": {},
+    "advancedSpawnRules": [],
+    "damageCapMode": "absolute",
+    "damageCapValue": 0.0
+  },
+  "minecraft:vindicator": {
+    "enabled": true,
+    "attributes": {
+      "minecraft:generic.attack_speed": 3.0,
+      "minecraft:generic.attack_damage": 5.0,
+      "minecraft:generic.follow_range": 12.0,
+      "minecraft:generic.armor": 0.0,
+      "minecraft:generic.armor_toughness": 0.0,
+      "minecraft:generic.movement_speed": 1.0,
+      "minecraft:generic.knockback_resistance": 0.0,
+      "minecraft:generic.max_health": 24.0
+    },
+    "aiToggles": {
+      "pickup_items": false,
+      "break_blocks": true,
+      "pushed_by_fluid": true,
+      "burn_in_sun": false
+    },
+    "resistances": {
+      "magic": false,
+      "explosion": false,
+      "fall": false,
+      "glowing": false,
+      "rideable": false,
+      "fire": false,
+      "projectile": false
+    },
+    "entityTypeTags": {},
+    "scale": 1.0,
+    "expertAttributes": {},
+    "filter": {
+      "enabled": false,
+      "tag": "vme_marked"
+    },
+    "spawnConditions": {
+      "enabled": false,
+      "weight": 100,
+      "minCount": 1,
+      "maxCount": 4,
+      "biomes": [],
+      "minLight": 0,
+      "maxLight": 15,
+      "minHeight": -64,
+      "maxHeight": 320,
+      "onSpawnNbt": ""
+    },
+    "jumpStrength": 0.7,
+    "randomAttributes": {},
+    "advancedSpawnRules": [],
+    "damageCapMode": "absolute",
+    "damageCapValue": 0.0
+  },
+  "minecraft:zombie": {
+    "enabled": true,
+    "attributes": {
+      "minecraft:generic.attack_speed": 0.5,
+      "minecraft:generic.attack_damage": 3.0,
+      "minecraft:generic.follow_range": 35.0,
+      "minecraft:generic.armor": 2.0,
+      "minecraft:generic.armor_toughness": 0.0,
+      "minecraft:generic.movement_speed": 1.0,
+      "minecraft:generic.knockback_resistance": 0.0,
+      "minecraft:generic.max_health": 20.0
+    },
+    "aiToggles": {
+      "pickup_items": true,
+      "break_blocks": true,
+      "pushed_by_fluid": true,
+      "burn_in_sun": true
+    },
+    "resistances": {
+      "magic": false,
+      "explosion": false,
+      "fall": false,
+      "glowing": false,
+      "rideable": false,
+      "fire": false,
+      "projectile": false
+    },
+    "entityTypeTags": {},
+    "scale": 1.0,
+    "expertAttributes": {},
+    "filter": {
+      "enabled": false,
+      "tag": "vme_marked"
+    },
+    "spawnConditions": {
+      "enabled": false,
+      "weight": 100,
+      "minCount": 1,
+      "maxCount": 4,
+      "biomes": [],
+      "minLight": 0,
+      "maxLight": 15,
+      "minHeight": -64,
+      "maxHeight": 320,
+      "onSpawnNbt": ""
+    },
+    "jumpStrength": 0.7,
+    "randomAttributes": {},
+    "advancedSpawnRules": [],
+    "damageCapMode": "absolute",
+    "damageCapValue": 0.0
+  },
+  "minecraft:wither_skeleton": {
+    "enabled": true,
+    "attributes": {
+      "minecraft:generic.attack_damage": 2.0,
+      "minecraft:generic.follow_range": 16.0,
+      "minecraft:generic.armor": 0.0,
+      "minecraft:generic.armor_toughness": 0.0,
+      "minecraft:generic.movement_speed": 1.0,
+      "minecraft:generic.knockback_resistance": 0.0,
+      "minecraft:generic.max_health": 20.0
+    },
+    "aiToggles": {
+      "pickup_items": true,
+      "break_blocks": true,
+      "pushed_by_fluid": true,
+      "burn_in_sun": false
+    },
+    "resistances": {
+      "magic": false,
+      "explosion": false,
+      "fall": false,
+      "glowing": false,
+      "rideable": false,
+      "fire": true,
+      "projectile": false
+    },
+    "entityTypeTags": {},
+    "scale": 1.0,
+    "expertAttributes": {},
+    "filter": {
+      "enabled": false,
+      "tag": "vme_marked"
+    },
+    "spawnConditions": {
+      "enabled": false,
+      "weight": 100,
+      "minCount": 1,
+      "maxCount": 4,
+      "biomes": [],
+      "minLight": 0,
+      "maxLight": 15,
+      "minHeight": -64,
+      "maxHeight": 320,
+      "onSpawnNbt": ""
+    },
+    "jumpStrength": 0.7,
+    "randomAttributes": {},
+    "advancedSpawnRules": [],
+    "damageCapMode": "absolute",
+    "damageCapValue": 0.0
+  }
+}

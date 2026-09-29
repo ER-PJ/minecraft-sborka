@@ -1,0 +1,104 @@
+{
+  "equipment_set.armory_rpgs.astral": "Астральное облачение",
+  "equipment_set.armory_rpgs.avatar": "Одеяние аватара",
+  "equipment_set.armory_rpgs.deathmantle": "Мантия смерти",
+  "equipment_set.armory_rpgs.destroyer": "Броня разрушителя",
+  "equipment_set.armory_rpgs.glacier": "Ледниковая мантия",
+  "equipment_set.armory_rpgs.justicar": "Регалии правосудия",
+  "equipment_set.armory_rpgs.scarlet": "Багровое одеяние",
+  "equipment_set.armory_rpgs.strider": "Броня странника",
+
+  "item.armory_rpgs.astral_robe_chest": "Астральная мантия",
+  "item.armory_rpgs.astral_robe_feet": "Астральные ботинки",
+  "item.armory_rpgs.astral_robe_head": "Астральная шляпа",
+  "item.armory_rpgs.astral_robe_legs": "Астральные бриджи",
+
+  "item.armory_rpgs.avatar_robe_chest": "Облачение аватара",
+  "item.armory_rpgs.avatar_robe_feet": "Ботинки аватара",
+  "item.armory_rpgs.avatar_robe_head": "Капюшон аватара",
+  "item.armory_rpgs.avatar_robe_legs": "Бриджи аватара",
+
+  "item.armory_rpgs.champion_upgrade_crystal": "Потерянный кристалл чемпиона",
+  "item.armory_rpgs.conqueror_upgrade_crystal": "Потерянный кристалл завоевателя",
+
+  "item.armory_rpgs.deathmantle_armor_chest": "Туника мантии смерти",
+  "item.armory_rpgs.deathmantle_armor_feet": "Ботинки мантии смерти",
+  "item.armory_rpgs.deathmantle_armor_head": "Капюшон мантии смерти",
+  "item.armory_rpgs.deathmantle_armor_legs": "Поножи мантии смерти",
+
+  "item.armory_rpgs.destroyer_armor_chest": "Нагрудник разрушителя",
+  "item.armory_rpgs.destroyer_armor_feet": "Ботинки разрушителя",
+  "item.armory_rpgs.destroyer_armor_head": "Большой шлем разрушителя",
+  "item.armory_rpgs.destroyer_armor_legs": "Наголенники разрушителя",
+
+  "item.armory_rpgs.epic_armor_upgrade": "Кузнечный шаблон",
+
+  "item.armory_rpgs.glacier_robe_chest": "Ледниковая мантия",
+  "item.armory_rpgs.glacier_robe_feet": "Ледниковые ботинки",
+  "item.armory_rpgs.glacier_robe_head": "Ледниковая шляпа",
+  "item.armory_rpgs.glacier_robe_legs": "Ледниковые бриджи",
+
+  "item.armory_rpgs.justicar_armor_chest": "Нагрудник правосудия",
+  "item.armory_rpgs.justicar_armor_feet": "Ботинки правосудия",
+  "item.armory_rpgs.justicar_armor_head": "Забрало правосудия",
+  "item.armory_rpgs.justicar_armor_legs": "Набедренники правосудия",
+
+  "item.armory_rpgs.redeemer_upgrade_crystal": "Потерянный кристалл искупителя",
+
+  "item.armory_rpgs.scarlet_robe_chest": "Багровая мантия",
+  "item.armory_rpgs.scarlet_robe_feet": "Багровые ботинки",
+  "item.armory_rpgs.scarlet_robe_head": "Багровая шляпа",
+  "item.armory_rpgs.scarlet_robe_legs": "Багровые бриджи",
+
+  "item.armory_rpgs.smithing_template.epic_armor_upgrade.additions_slot_description": "Добавьте кристалл улучшения",
+  "item.armory_rpgs.smithing_template.epic_armor_upgrade.applies_to": "Специализированная броня",
+  "item.armory_rpgs.smithing_template.epic_armor_upgrade.base_slot_description": "Добавьте предмет брони",
+  "item.armory_rpgs.smithing_template.epic_armor_upgrade.ingredients": "Кристалл улучшения",
+  "item.armory_rpgs.smithing_template.hint": "Кристалл улучшения брони",
+
+  "item.armory_rpgs.strider_armor_chest": "Туника странника",
+  "item.armory_rpgs.strider_armor_feet": "Ботинки странника",
+  "item.armory_rpgs.strider_armor_head": "Капюшон странника",
+  "item.armory_rpgs.strider_armor_legs": "Поножи странника",
+
+  "item.armory_rpgs.upgrade_crystal.champion.applies_to": "Броня разбойника и воина",
+  "item.armory_rpgs.upgrade_crystal.conqueror.applies_to": "Броня тайного мага и мага огня",
+  "item.armory_rpgs.upgrade_crystal.redeemer.applies_to": "Броня паладина и жреца",
+  "item.armory_rpgs.upgrade_crystal.vanquisher.applies_to": "Броня мага льда и лучника",
+
+  "item.armory_rpgs.vanquisher_upgrade_crystal": "Потерянный кристалл победителя",
+
+  "itemGroup.armory_rpgs.generic": "Armory | Оружейная",
+
+  "spell.armory_rpgs.improved_arcane_beam.description": "Увеличивает шанс критического удара Чародейского луча на {critical_chance_bonus}",
+  "spell.armory_rpgs.improved_arcane_beam.name": "Улучшенный чародейский луч",
+
+  "spell.armory_rpgs.improved_barrier.description": "Увеличивает длительность Барьера на {effect_duration_add} сек.",
+  "spell.armory_rpgs.improved_barrier.name": "Улучшенный барьер",
+
+  "spell.armory_rpgs.improved_charge.description": "Уменьшает время восстановления Рывка на {cooldown_duration_deduct} сек.",
+  "spell.armory_rpgs.improved_charge.name": "Улучшенный рывок",
+
+  "spell.armory_rpgs.improved_circle_of_healing.description": "Увеличивает длительность поглощения Круга исцеления на {effect_duration_add} сек.",
+  "spell.armory_rpgs.improved_circle_of_healing.name": "Улучшенный круг исцеления",
+
+  "spell.armory_rpgs.improved_entangling_roots.description": "Увеличивает длительность Опутывающих корней на {spawn_duration_add} сек.",
+  "spell.armory_rpgs.improved_entangling_roots.name": "Улучшенные опутывающие корни",
+
+  "spell.armory_rpgs.improved_frost_shield.description": "Увеличивает длительность Ледяного щита на {effect_duration_add} сек.",
+  "spell.armory_rpgs.improved_frost_shield.name": "Улучшенный ледяной щит",
+
+  "spell.armory_rpgs.improved_judgement.description": "Уменьшает время восстановления Суда на {cooldown_duration_deduct} сек.",
+  "spell.armory_rpgs.improved_judgement.name": "Улучшенный суд",
+
+  "spell.armory_rpgs.improved_meteor.description": "Уменьшает время восстановления Метеора на {cooldown_duration_deduct} сек.",
+  "spell.armory_rpgs.improved_meteor.name": "Улучшенный метеор",
+
+  "spell.armory_rpgs.improved_shadow_step.description": "Уменьшает время восстановления Шага тени на {cooldown_duration_deduct} сек.",
+  "spell.armory_rpgs.improved_shadow_step.name": "Улучшенный шаг тени",
+
+  "spell.armory_rpgs.improved_whirlwind.description": "Уменьшает время восстановления Вихря на {cooldown_duration_deduct} сек.",
+  "spell.armory_rpgs.improved_whirlwind.name": "Улучшенный вихрь",
+
+  "upgrade.armory_rpgs.epic_armor_upgrade": "Улучшение брони до эпического уровня"
+}
