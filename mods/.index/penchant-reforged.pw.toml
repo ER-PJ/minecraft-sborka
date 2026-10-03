@@ -1,0 +1,29 @@
+filename = 'penchant-neoforge-1.21.1-1.6.jar'
+name = 'Penchant Reforged'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'penchant-neoforge-1.21.1-1.6'
+
+[download]
+hash = 'f7ab8bb9c02ef9fe2d1564d99523d7635f7260cf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8843857
+project-id = 1602528
+
+[[x-prismlauncher-dependencies]]
+addonId = '1101501'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1504158'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306770'
+type = 'REQUIRED'

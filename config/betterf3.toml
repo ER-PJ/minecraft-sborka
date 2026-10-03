@@ -37,14 +37,6 @@ general = {disable_mod = false, hide_bossbar = true, shadow_text = true, auto_st
 	lines = {shader = true, render_distance = true, graphics = true, clouds = true, biome_blend_radius = true}
 	enabled = true
 [[modules_left]]
-	color_x = 16733525
-	color_y = 5635925
-	color_z = 5636095
-	name = "coords"
-	name_color = 16733525
-	lines = {chunk_coords = true, player_coords = true, block_coords = true, absolute_velocity = true, velocity = true, chunk_relative_coords = true, horizontal_velocity = true}
-	enabled = true
-[[modules_left]]
 	name = "location"
 	name_color = 43520
 	value_color = 5636095

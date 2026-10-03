@@ -1,0 +1,25 @@
+{
+    "name": "Переработка прочности",
+    "icon": "minecraft:diamond_pickaxe",
+    "category": "penchant:modules",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Починка удалена.$() Вместо этого $(#7A2FBF)Прочность$() теперь имеет $(bold)5 уровней$(), и $(#7A2FBF)Прочность V$() делает инструмент $(italic)неразрушимым$() — но до этого нужно ещё дойти!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Шанс урона за уровень$()$(br)$(li)Нет: 100% $(li)I: 100% $(li)II: 75% $(li)III: 50% $(li)IV: 25% $(li)$(#7A2FBF)V: 0% (неразрушимый)$()$(br2)Предметы, которые уже имеют Починку, сохраняют её, но она больше не работает."
+        },
+        {
+            "type": "patchouli:image",
+            "title": "Неразрушимый",
+            "border": true,
+            "images": [
+                "penchant:textures/gui/book/unbreaking.png"
+            ],
+            "text": "Меч с Прочностью V, помеченный как Неразрушимый."
+        }
+    ]
+}

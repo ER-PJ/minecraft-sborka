@@ -1,0 +1,37 @@
+filename = 'fieldguide-1.20.1+1.21.1-neoforge.jar'
+name = 'Field Guide'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1+1.21.1-neoforge'
+
+[download]
+hash = '403222ed53b45705998c1e48590252b20e00c9c886b99796a388eb457c37c7e0b535bdf28bba63304a8d96af564dc1decf4bde68cf3baa37da643ef091b3ce19'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/72RRCWM6/versions/H9ffIWbH/fieldguide-1.20.1%2B1.21.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = '72RRCWM6'
+version = 'H9ffIWbH'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1eAoo2KR'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'UaizcMKP'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'PKoLkD98'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'umyGl7zF'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'fRiHVvU7'
+type = 'OPTIONAL'

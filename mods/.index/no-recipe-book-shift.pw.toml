@@ -1,0 +1,21 @@
+filename = 'norecipebookshift-1.0.0+1.21.1-neoforge.jar'
+name = 'No Recipe Book Shift (NRBS)'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = 'b54547410e24637d4531565be0c1b4de27124836bf3be30f6c41323cf06221a3a6fbb4c85e702b4167e8625a0c35c88645a083168efb36b1e1f870ddd5637dbf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CnII1zAB/versions/cWyhqeDv/norecipebookshift-1.0.0%2B1.21.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'CnII1zAB'
+version = 'cWyhqeDv'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1eAoo2KR'
+type = 'REQUIRED'

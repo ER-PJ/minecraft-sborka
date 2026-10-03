@@ -1,0 +1,6 @@
+{
+  "_maxSpeed": "Maximum hoverboard speed in blocks/tick while moving forward. Range 0.05-12.0.",
+  "maxSpeed": 6.0,
+  "_acceleration": "Speed gained per tick while moving forward. Lower values take longer to reach top speed. Range 0.001-1.0.",
+  "acceleration": 0.05
+}

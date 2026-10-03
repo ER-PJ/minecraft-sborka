@@ -1,0 +1,12 @@
+{
+    "name": "Reduced Curses",
+    "icon": "minecraft:cobweb",
+    "category": "penchant:modules",
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This is no longer a separate module. Curse rarity now lives in $(l:penchant:modules/loot_rework)Loot Rework$(/l): curses stay off librarian trades and enchanted books found in loot, and can still appear on mob equipment.$(br2)There is nothing extra to enable."
+        }
+    ]
+}

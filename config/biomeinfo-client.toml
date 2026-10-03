@@ -15,7 +15,7 @@ posX = 3
 #The Y position to display the biome info at.
 # Default: 3
 # Range: > -2147483648
-posY = 5
+posY = 3
 #The size of the biome info (multiplier).
 # Default: 1.0
 # Range: 0.0 ~ 1.7976931348623157E308
